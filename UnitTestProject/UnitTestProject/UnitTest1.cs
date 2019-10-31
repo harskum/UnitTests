@@ -78,7 +78,7 @@ namespace UnitTestProject1
         public void Fail1()
         {
             //System.Threading.Thread.Sleep(3000);
-            Assert.IsFalse(true);
+            //Assert.IsFalse(true);
         }
         [TestMethod]
         public void Fail2()
